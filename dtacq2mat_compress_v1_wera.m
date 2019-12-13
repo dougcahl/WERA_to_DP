@@ -1,4 +1,5 @@
 %% dtacq2mat_radcelf_compress_v1_wera.mat
+%% used matWERA libraries
 function dtacq2mat_compress_v1_wera(filein,plt)
 % function filein=dtacq2mat_compress_v1_wera(filein,plt)
 % converts dta file to RAW file and compressed mat file; change parameters in beginning to suit site

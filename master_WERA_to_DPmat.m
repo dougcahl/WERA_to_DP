@@ -1,4 +1,10 @@
-%% make sure the lera_DPd directory is in your path 
+%% example of processing WERA .RAW and .SORT data to compatible .mat format
+% for the WERA compatible fork of lera_DPd
+%
+% make sure the matWERA directory is your path
+% add the wera_raw_data path if not using full paths below
+%
+
 %% WERA RAW file to compressed mat file compatibile for LERA/WERA_DP code
 clear
 plt = 1; % plot two chirps 
