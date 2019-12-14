@@ -2,8 +2,12 @@
 % for the WERA compatible fork of lera_DPd
 %
 % make sure the matWERA directory is your path
+% (https://github.com/gvoulgaris0/matWERA)
 % add the wera_raw_data path if not using full paths below
 %
+%
+% Douglas Cahl 2019
+% dcahl@geol.sc.edu
 
 %% WERA RAW file to compressed mat file compatibile for LERA/WERA_DP code
 clear

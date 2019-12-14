@@ -1,5 +1,7 @@
 %% dtacq2mat_radcelf_compress_v1_wera.mat
-%% used matWERA libraries
+%% uses matWERA libraries available at https://github.com/gvoulgaris0/matWERA
+% updated for use with WERA .RAW data Douglas Cahl 2019
+% dcahl@geol.sc.edu
 function dtacq2mat_compress_v1_wera(filein,plt)
 % function filein=dtacq2mat_compress_v1_wera(filein,plt)
 % converts dta file to RAW file and compressed mat file; change parameters in beginning to suit site
