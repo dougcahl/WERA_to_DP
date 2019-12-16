@@ -3,6 +3,8 @@
 %
 % make sure the matWERA directory is your path
 % (https://github.com/gvoulgaris0/matWERA)
+matWERA_path = '..\matWERA';
+addpath(matWERA_path);
 % add the wera_raw_data path if not using full paths below
 %
 %
